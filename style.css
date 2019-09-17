@@ -1,0 +1,64 @@
+.all{
+	background: pink;
+	width: 900px;
+	margin: 10px auto;
+}
+ 
+
+.all .header{
+	background: rgb(235, 59, 88);
+	/*height: 50px;*/
+	padding: 2px 10px;
+}
+ 
+
+
+.all .menu{
+	background: khaki;
+}
+ 
+.all .menu ul{
+	padding: 0;
+	margin: 0;
+	background: pink;
+	overflow: hidden;
+}
+ 
+.all .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+
+.all .badan .sidebar{
+	background: salmon;
+	float: left;	
+	width: 50%;
+	height: 40%;
+}
+ 
+.all .badan .content{
+	background: hotpink;
+	float: left;
+	height: 100%;
+	width: 75%;	
+}
+ 
+.all .footer{
+	background: palevioletred;
+	width: 100%;
+	padding: 10px;
+}
+
+body{
+	background: url('images.jpg');
+	color: #fff;
+}

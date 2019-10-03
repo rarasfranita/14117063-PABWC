@@ -1,0 +1,13 @@
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda, Pernakah terjadi error ketika ada kesalahan kode?
+2. Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH" content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan apa diantara kegunaan meta dokumen?
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+
+jawab:
+1. tidak pernahterjadi kesalahan atau error namun tidak dapat di tampilkan
+2. tidak dapat terjadi
+3.tag <thead> biasanya di pakai untuk title/judul di dalam form
+<tbody> element digunakan untuk mengelompokkan konten yang terletak pada bagian tubuh table itu sendiri. Di dalam element <tbody> tersebut, harus ditulis element <tr> yang menunjukkan table row atau baris sebuah table. 
+
+    Tag <table> digunakan untuk memulai tabel
+    Tag <tr> adalah singkatan dari table row, digunakan untuk membuat baris dari tabel.
+    Tag <td> adalah singkatan dari table data, digunakan untuk menginput data ke tabel.
